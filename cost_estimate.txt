@@ -1,0 +1,38 @@
+
+
+
+
+
+
+=== books
+- control systems
+- differntial algorithms
+- 
+ 
+=== tools
+- online repository
+- dropbox
+- matlab
+- microsoft visio
+---- Code testing tools
+PolySpace Verifier   
+
+
+=== hardware
+- 1 good CPU machine
+- Samsung Galaxy Note II  - 3 months of data plan
+- digital shock prototype contract
+
+- pay zhu for 4 months
+http://socialsciences.uottawa.ca/research/student-salaries
+http://www.glassdoor.ca/Salaries/undergraduate-research-assistant-salary-SRCH_KO0,32.htm
+
+=== courses
+- nueroscience
+
+
+https://www.mdt.mt.gov/other/research/external/docs/research_proj/project_cost/final_report.pdf
+http://www.cs.odu.edu/~cs410/costing.htm
+
+http://www.dot.ca.gov/hq/oppd/pdpm/chap_pdf/chapt20.pdf
+http://srmo.sagepub.com/view/handbook-of-research-design-social-measurement/n108.xml

@@ -1,0 +1,25 @@
+Exploration  Prediction/Control   Ask yourself: 
+1. Will this study generate new knowledge? 
+2. Will the study benefit patients, advance understanding or inf////////////luence policy? 
+3. Will the study fill gaps in existing knowledge or resolve current controversies?
+
+
+RESEARCH CYCLE
+
+Theory
+Hypothesis
+Data
+Findings
+Hypothesis confirmed/rejected
+
+Revision of Theory
+
+
+Case reports
+
+
+Modular design, or "modularity in design", is an approach that subdivides a system into smaller parts (modules or skids) that can be independently created and then used in different systems to drive multiple functionalities. A modular system can be characterized by the following:
+
+(1) Functional partitioning into discrete scalable, reusable modules consisting of isolated, self-contained functional elements
+(2) Rigorous use of well-defined modular interfaces, including object-oriented descriptions of module functionality
+(3) Ease of change to achieve technology transparency and, to the extent possible, make use of industry standards for key interfaces.[1]

@@ -1,0 +1,12 @@
+http://philarcher.org/diary/svgtest/
+
+http://www.schepers.cc/svg/blendups/embedding.html
+
+http://stackoverflow.com/questions/9872947/changing-svg-image-color-with-javascript
+
+
+XML
+
+http://www.w3schools.com/schema/schema_editor.asp
+
+http://www.w3schools.com/rss/default.asp
